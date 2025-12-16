@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Hi there ！
+# Hi 😊！
 
-I am a senior undergraduate student from Beihang University, and I will pursue my postgraduate studies at the School of Artificial Intelligence, Beihang University. My research interests lie in **efficient inference** and **model quantization**. 
+I am a senior undergraduate student from Beihang University, and I will pursue my postgraduate studies at the School of Artificial Intelligence, Beihang University.
+
+My research interests lie in **efficient inference** and **model quantization**. 
